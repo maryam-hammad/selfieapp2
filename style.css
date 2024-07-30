@@ -1,0 +1,46 @@
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+body{
+    background-color: lemonchiffon;
+}
+
+#h1{
+    font-family: 'Lucida Sans';
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#h4_tag{
+    font-weight: bold;    
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: dimgrey;
+}
+
+#result1{
+   border-color: bisque;
+   padding: 10px;
+}
+
+#result2{
+    border-color: bisque;
+    padding: 10px; 
+}
+
+#result3{
+   border-color: bisque;
+   padding: 10px;
+}
+
+img:hover{
+    border-radius: 20px;
+}
+
